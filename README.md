@@ -1,0 +1,1 @@
+# surfing_camp_nextjs_strapi
